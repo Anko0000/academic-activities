@@ -5,5 +5,4 @@
   [朝倉書店 公式ページ](https://www.asakura.co.jp/detail.php?book_code=12267)
 
 - **強化学習(第2版)**  
-  
   [森北出版 公式ページ](https://www.morikita.co.jp/books/mid/082662)
